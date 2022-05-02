@@ -3,5 +3,5 @@
 # http://postolenko.github.io/seogun_edits/help_1.html
 # http://postolenko.github.io/seogun_edits/dashboard.html
 # http://postolenko.github.io/seogun_edits/keywords.html
-# http://postolenko.github.io/seogun_edits/report_2.html
-# http://postolenko.github.io/seogun_edits/report_3.html
+# http://postolenko.github.io/seogun_edits/reports_2.html
+# http://postolenko.github.io/seogun_edits/reports_3.html
